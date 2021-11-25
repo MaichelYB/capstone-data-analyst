@@ -73,6 +73,9 @@ def send_about(message):
 # df['campaign_id'] = df['campaign_id'].astype(___)
 # unique_campaign = ___
 
+# # TO DO: change the data type of ad_id, age, and gender
+# ___
+
 # @bot.message_handler(commands=['summary'])
 # def ask_id_summary(message):
 #     # TO DO: chat_id (SAME AS CHECKPOINT 1)
